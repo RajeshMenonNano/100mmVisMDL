@@ -1,0 +1,31 @@
+X start 9.5 X step 0.01 X # steps 101
+Y start -10.5 Y step 0.01 Y # steps 101
+1. scan 550 nm bw 15 nm laser power 29% integration time 10 ms TD1 750 ms TD2 750 ms
+2. scan 650 nm bw 15 nm laser power 31% integration time 10 ms TD1 750 ms TD2 750 ms
+3. scan 750 nm bw 15 nm laser power 30% integration time 10 ms TD1 750 ms TD2 750 ms
+4. scan 450 nm bw 15 nm laser power 59.5% integration time 10 ms TD1 750 ms TD2 750 ms
+
+
+
+
+Efficiency measurements:
+
+1. 400-800 nm laser power 43%, spectrometer aligned best to focus, integration time 10 ms
+400-475 nm laser power 66%, spectrometer aligned best to focus, integration time 10 ms
+650-800 nm laser power 37%, spectrometer aligned best to focus, integration time 10 ms
+475-575 nm laser power 37%, spectrometer aligned best to focus, integration time 10 ms
+
+
+2. 400-800 nm laser power 43%, spectrometer aligned right after mdl, integration time 10 ms
+400-475 nm laser power 66%, spectrometer aligned right after mdl, integration time 10 ms
+650-800 nm laser power 37%, spectrometer aligned right after mdl, integration time 10 ms
+475-575 nm laser power 37%, spectrometer aligned right after mdl, integration time 10 ms
+
+3. 400-800 nm laser power 43%, spectrometer aligned before mdl, integration time 10 ms
+400-475 nm laser power 66%, spectrometer aligned before mdl, integration time 10 ms
+650-800 nm laser power 37%, spectrometer aligned before mdl, integration time 10 ms
+475-575 nm laser power 37%, spectrometer aligned before mdl, integration time 10 ms
+
+For 3, higher integration times besides 10 ms were also used to get enough signal. Corresponding 
+dark measurements were also recorded.
+
